@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Email		TAR	498	nouvelle taille enregistrement : 498
+Email	uuid	RUB+		uuid est une nouvelle rubrique
+Email	etat	RUB+		etat est une nouvelle rubrique

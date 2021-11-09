@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Email		TAR	1012	nouvelle taille enregistrement : 1012
+Email	chemin	TAI+	462	la rubrique chemin a comme nouvelle taille 513 au lieu de 51
